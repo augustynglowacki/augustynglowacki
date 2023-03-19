@@ -2,8 +2,8 @@
   Hi, i'm Augustyn <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 </h1>
 
-### Frontend Developer
-<p>👨‍💻 I cooperate with <a href="https://heyguys.io/en/projects/"><img alt="Heyguys" width="18px" height="18px" src="https://heyguys.io/favicon-32x32.png?v=cc54e07872cb47e5b5b14e266c6e188e"></a> agency, providing them with frontend development services, such as coding bespoke websites with Gatsby, Typescript, Wordpress CMS and GSAP (Greensock Animation Platform).<br>
+### Front-end Developer
+<p>👨‍💻 I cooperate with <a href="https://heyguys.io/en/projects/"><img alt="Heyguys" width="18px" height="18px" src="https://heyguys.io/favicon-32x32.png?v=cc54e07872cb47e5b5b14e266c6e188e"></a> agency, providing them with front-end development services, such as coding bespoke websites with Gatsby, Typescript, Wordpress CMS and GSAP (Greensock Animation Platform).<br>
 🧑‍🎓 I have graduated from Częstochowa University of Technology with an engineer's degree in Computer Science.<br>
 📚 I'm currently developing my freelancer portfolio.</p>
 
