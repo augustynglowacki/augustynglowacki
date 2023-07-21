@@ -28,7 +28,7 @@ Connect with me:  [![Linkedin](https://img.shields.io/badge/linkedin-0077B5?logo
 #### Content Management Systems, Backend Services:
 [![Wordpress](https://img.shields.io/badge/Wordpress-21759B?&logo=wordpress&logoColor=white&style=flat-square)](https://wordpress.org/)
 [![Woocommerce](https://img.shields.io/badge/Woocommerce-96588A?&logo=woocommerce&logoColor=white&style=flat-square)](https://woocommerce.com/)
-[![Prismic](https://img.shields.io/badge/Hygraph-000000?&logo=prismic&logoColor=white&style=flat-square)](https://prismic.io/)
+[![Prismic](https://img.shields.io/badge/Prismic-000000?&logo=prismic&logoColor=white&style=flat-square)](https://prismic.io/)
 [![Sanity](https://img.shields.io/badge/Sanity-f36458?&logo=sanity&logoColor=white&style=flat-square)](https://www.sanity.io/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?&logo=firebase&logoColor=white&style=flat-square)](https://firebase.google.com/)
 
