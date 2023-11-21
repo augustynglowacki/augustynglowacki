@@ -3,7 +3,7 @@
 </h1>
 
 ### Front-end Developer
-<p>👨‍💻 I cooperate with <a href="https://heyguys.io/en/projects/"><img alt="Heyguys" width="18px" height="18px" src="https://heyguys.io/favicon-32x32.png?v=cc54e07872cb47e5b5b14e266c6e188e"></a> agency, providing them with front-end development services, such as coding bespoke websites with Gatsby, Typescript, Wordpress CMS and GSAP (Greensock Animation Platform).<br>
+<p>👨‍💻 I cooperate with web agencies, providing them with front-end development services, such as coding bespoke Jamstack websites using Next, Gatsby, Typescript & CMS Platforms.<br>
 🧑‍🎓 I graduated from Częstochowa University of Technology with an engineer's degree in Computer Science.<br>
 📚 I'm currently developing my freelancer portfolio.</p>
 
