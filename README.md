@@ -1,9 +1,8 @@
 <h1>
-  Hi, i'm Augustyn <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+  Greetings, I'm Augustyn <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 </h1>
 
 ### Front-end Developer
-👋 Greetings, I'm Augustyn!
 
 👨‍💻 I'm engaged in collaborative efforts with web agencies, I specialize in delivering front-end development services. My focus lies in coding unique Jamstack websites using Next.js, Typescript, and various CMS Platforms.
 
