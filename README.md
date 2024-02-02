@@ -3,9 +3,15 @@
 </h1>
 
 ### Front-end Developer
-<p>👨‍💻 I cooperate with web agencies, providing them with front-end development services, such as coding bespoke Jamstack websites using Next, Gatsby, Typescript & CMS Platforms.<br>
-🧑‍🎓 I graduated from Częstochowa University of Technology with an engineer's degree in Computer Science.<br>
-📚 I'm currently developing my freelancer portfolio.</p>
+👋 Greetings, I'm Augustyn!
+
+👨‍💻 I'm engaged in collaborative efforts with web agencies, I specialize in delivering front-end development services. My focus lies in coding unique Jamstack websites using Next.js, Typescript, and various CMS Platforms.
+
+🧑‍🎓 I hold a degree in Computer Science from Częstochowa University of Technology.
+
+🗣️ I thrive on lively discussions and diverse perspectives. Kicking off the initial stages of my blogging journey, I share insights on technology trends, front-end development tips, and my evolving experiences in the digital realm. 
+
+💡 Eager to connect with like-minded individuals for spirited exchanges of thoughts and ideas!
 
 Connect with me:  [![Linkedin](https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/augustynglowacki/)
 
