@@ -19,7 +19,7 @@
 [![Gatsby](https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=flat-square)](https://www.gatsbyjs.com/)
 [![GSAP](https://img.shields.io/badge/GSAP-88ce04?style=flat-square&logo=gsap&logoColor=white)](https://greensock.com/gsap/)
 
-#### 🚀 Content Management Systems, Backend:
+#### 🚀 Content Management Systems, Back-end:
 [![Node.js](https://img.shields.io/badge/-Node.js-026e00?style=flat-square&logo=nodedotjs&logoColor=white)](https://www.javascript.com/)
 [![Wordpress](https://img.shields.io/badge/Wordpress-21759B?&logo=wordpress&logoColor=white&style=flat-square)](https://wordpress.org/)
 [![Prismic](https://img.shields.io/badge/Prismic-000000?&logo=prismic&logoColor=white&style=flat-square)](https://prismic.io/)
