@@ -1,12 +1,11 @@
 #  Greetings, I'm Augustyn <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-👨‍💻 I'm engaged in collaborative efforts with web agencies, I specialize in delivering front-end development services. My focus lies in coding unique Jamstack websites using Next.js, Typescript, and various CMS Platforms.
+I use Javascript frameworks and Headless CMS Platforms to implement spot-on web solutions.
 
-🧑‍🎓 I hold a degree in Computer Science from Częstochowa University of Technology.
+I specialize in architecting data structures in Content Management Systems, connecting them with front-end of the website & optimizing performance scores to ensure fulfillment of Google's Core Web Vitals standards.
 
-🗣️ I thrive on lively discussions and diverse perspectives. Kicking off the initial stages of my blogging journey, I share insights on technology trends, front-end development tips, and my evolving experiences in the digital realm. 
+I hold a degree in Computer Science from Częstochowa University of Technology.
 
-💡 Eager to connect with like-minded individuals for spirited exchanges of thoughts and ideas!
 
 ## My tech stack
 
