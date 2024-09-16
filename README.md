@@ -10,7 +10,7 @@ I hold a degree in Computer Science from Częstochowa University of Technology.
 ## My tech stack
 
 #### 🔧 General
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)](https://www.javascript.com/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Astro](https://img.shields.io/badge/-Astro.js-641cb8?style=flat-square&logo=astro&logoColor=white)](https://astro.build/)
@@ -21,7 +21,7 @@ I hold a degree in Computer Science from Częstochowa University of Technology.
 [![Prismic](https://img.shields.io/badge/Prismic-000000?&logo=prismic&logoColor=white&style=flat-square)](https://prismic.io/)
 [![Storyblok](https://img.shields.io/badge/Storyblok-00b3b0?&logo=storyblok&logoColor=white&style=flat-square)](https://www.storyblok.com/)
 [![Sanity](https://img.shields.io/badge/Sanity-f36458?&logo=sanity&logoColor=white&style=flat-square)](https://www.sanity.io/)
-[![Contentful](https://img.shields.io/badge/Contentful-f36458?&logo=contentful&logoColor=white&style=flat-square)](https://www.contentful.com/)
+[![Contentful](https://img.shields.io/badge/Contentful-ffda00?&logo=contentful&logoColor=1770e5&style=flat-square)](https://www.contentful.com/)
 [![DatoCMS](https://img.shields.io/badge/DatoCMS-ff593d?&logo=datocms&logoColor=white&style=flat-square)](https://www.datocms.com/)
 [![TinaCMS](https://img.shields.io/badge/TinaCMS-e56137?&logo=tinacms&logoColor=white&style=flat-square)](https://tina.io/)
 [![Builder.io](https://img.shields.io/badge/Builder.io-a97ff2?&logo=builderio&logoColor=white&style=flat-square)](https://www.builder.io/)
