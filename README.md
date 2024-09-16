@@ -31,5 +31,4 @@ I hold a degree in Computer Science from Częstochowa University of Technology.
 #### 📱 Mobile Apps:
 [![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)](https://reactnative.dev/)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustynglowacki&layout=compact&theme=synthwave&langs_count=4#" alt=""/>
 <img src="https://user-images.githubusercontent.com/71926817/179848450-0ff57b35-6c23-4754-aa86-5052ab615356.gif" alt=""/>
