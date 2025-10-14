@@ -1,11 +1,12 @@
 #  Greetings, I'm Augustyn <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-I use Javascript frameworks and Headless CMS Platforms to implement spot-on web solutions.
+Senior Frontend Developer experienced in client-facing roles and collaborating with English-speaking teams.
 
-I specialize in architecting data structures in Content Management Systems, connecting them with front-end of the website & optimizing performance scores to ensure fulfillment of Google's Core Web Vitals standards.
+Skilled in providing guidance during pre-sales through estimations, proposals & technical audits.
 
-I hold a degree in Computer Science from Częstochowa University of Technology.
+Strong foundation in React/Next.js & headless CMS integration, leading development projects with end-to-end feature ownership.
 
+Proficient in leveraging AI-powered development tools such as Cursor and MCP servers to accelerate productivity.
 
 ## My tech stack
 
