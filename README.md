@@ -15,6 +15,7 @@ Proficient in leveraging AI-powered development tools to accelerate productivity
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Astro](https://img.shields.io/badge/-Astro.js-641cb8?style=flat-square&logo=astro&logoColor=white)](https://astro.build/)
+[![Gatsby](https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=flat-square)](https://www.gatsbyjs.com/)
 [![Node.js](https://img.shields.io/badge/-Node.js-026e00?style=flat-square&logo=nodedotjs&logoColor=white)](https://www.javascript.com/)
 
 #### 🚀 Content Management Systems, Back-end:
