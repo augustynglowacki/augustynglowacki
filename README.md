@@ -6,6 +6,8 @@ At Bejamas, I own technical leadership across client projects, directing teams o
 
 Experienced in pre-sales, technical audits, and building long-term client relationships with English-speaking teams.
 
+Proficient in bootstrapping AI-ready codebases for Claude Code agentic coding, configuring custom rules, skills, commands, and project documentation so any developer can onboard and contribute independently without hand-holding​​​​​​​​​​​​​​​​.
+
 ## My tech stack
 
 #### 🔧 General
