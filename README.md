@@ -1,12 +1,10 @@
 #  Greetings, I'm Augustyn <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-Senior Frontend Developer experienced in client-facing roles and collaborating with English-speaking teams.
+Senior Frontend Developer specializing in Next.js, Astro, and headless CMS platforms. 
 
-Skilled in providing guidance during pre-sales through estimations, proposals & technical audits.
+At Bejamas, I own technical leadership across client projects, directing teams of developers from architecture through delivery. 
 
-Strong foundation in React/Next.js & headless CMS integration, leading development projects with end-to-end feature ownership.
-
-Proficient in leveraging AI-powered development tools to accelerate productivity.
+Experienced in pre-sales, technical audits, and building long-term client relationships with English-speaking teams.
 
 ## My tech stack
 
