@@ -1,6 +1,6 @@
 #  Greetings, I'm Augustyn <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-Senior Frontend Developer specializing in Next.js, Astro, and headless CMS platforms. 
+Frontend Team Lead specializing in Next.js, Astro, and headless CMS platforms. 
 
 At Bejamas, I own technical leadership across client projects, directing teams of developers from architecture through delivery. 
 
