@@ -1,35 +1,15 @@
 #  Greetings, I'm Augustyn <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-Frontend Team Lead specializing in Next.js, Astro, and headless CMS platforms. 
+Senior Frontend Engineer at Bejamas with 5+ years building production websites, architecting Next.js and Astro systems on headless CMS platforms.
 
-At Bejamas, I own technical leadership across client projects, directing teams of developers from architecture through delivery. 
+I work with prospects directly in pre-sales, scoping and estimating delivery before the project starts, then lead projects through delivery, directing and mentoring mid-level developers.
 
-Experienced in pre-sales, technical audits, and building long-term client relationships with English-speaking teams.
+Owning multisite, multi-brand and multilingual content architecture in Sanity and Storyblok from scratch, plus planning migrations from legacy CMS platforms into headless.
 
-Proficient in bootstrapping AI-ready codebases for Claude Code agentic coding, configuring custom rules, skills, commands, and project documentation so any developer can onboard and contribute independently without hand-holding​​​​​​​​​​​​​​​​.
+Running agent-assisted delivery with Claude Code and Codex: building custom workflows around them, delegating low-level work, staying on architecture and key decisions.
 
-## My tech stack
+As a freelancer, I also take on Next.js/Astro and headless CMS work through augustynglowacki.com: hourly consulting, fixed-price builds, site audits.
 
-#### 🔧 General
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://www.javascript.com/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Astro](https://img.shields.io/badge/-Astro.js-641cb8?style=flat-square&logo=astro&logoColor=white)](https://astro.build/)
-[![Gatsby](https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=flat-square)](https://www.gatsbyjs.com/)
-
-#### 🚀 Content Management Systems, Back-end:
-[![Wordpress](https://img.shields.io/badge/Wordpress-21759B?&logo=wordpress&logoColor=white&style=flat-square)](https://wordpress.org/)
-[![Prismic](https://img.shields.io/badge/Prismic-000000?&logo=prismic&logoColor=white&style=flat-square)](https://prismic.io/)
-[![Storyblok](https://img.shields.io/badge/Storyblok-00b3b0?&logo=storyblok&logoColor=white&style=flat-square)](https://www.storyblok.com/)
-[![Sanity](https://img.shields.io/badge/Sanity-f36458?&logo=sanity&logoColor=white&style=flat-square)](https://www.sanity.io/)
-[![Contentful](https://img.shields.io/badge/Contentful-ffda00?&logo=contentful&logoColor=1770e5&style=flat-square)](https://www.contentful.com/)
-[![DatoCMS](https://img.shields.io/badge/DatoCMS-ff593d?&logo=datocms&logoColor=white&style=flat-square)](https://www.datocms.com/)
-[![TinaCMS](https://img.shields.io/badge/TinaCMS-e56137?&logo=tinacms&logoColor=white&style=flat-square)](https://tina.io/)
-[![Builder.io](https://img.shields.io/badge/Builder.io-a97ff2?&logo=builderio&logoColor=white&style=flat-square)](https://www.builder.io/)
-[![Hygraph](https://img.shields.io/badge/Hygraph-000000?&logo=hygraph&logoColor=white&style=flat-square)](https://hygraph.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-ff9f00?&logo=firebase&logoColor=white&style=flat-square)](https://firebase.google.com/)
-
-#### 📱 Mobile Apps:
-[![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)](https://reactnative.dev/)
+Bachelor of Engineering in Computer Science.
 
 <img src="https://user-images.githubusercontent.com/71926817/179848450-0ff57b35-6c23-4754-aa86-5052ab615356.gif" alt=""/>
